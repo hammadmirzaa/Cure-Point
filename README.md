@@ -17,13 +17,13 @@ Welcome to the cure point project repository! This is a React-based website aime
 - Deployed using GitHub Pages for easy access and sharing.
 
 ## Deployment
-
+The App is deployed using vercel app `https://cure-point.vercel.app/`
 
 ## Getting Started
 
 To run the project locally:
 
-1. Clone this repository: `git clone https://github.com/hammadmirzaa/CurePoint.git`
+1. Clone this repository: `git clone https://github.com/hammadmirzaa/Cure-Point.git`
 2. Navigate to the project directory: `cd Cure-Point`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
